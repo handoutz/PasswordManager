@@ -1,0 +1,5 @@
+c:\users\innatepirate\documents\visual studio 2012\Projects\PasswordManager\LibPassManager\obj\Debug\LibPassManager.csprojResolveAssemblyReference.cache
+c:\users\innatepirate\documents\visual studio 2012\Projects\PasswordManager\LibPassManager\bin\Debug\LibPassManager.dll
+c:\users\innatepirate\documents\visual studio 2012\Projects\PasswordManager\LibPassManager\bin\Debug\LibPassManager.pdb
+c:\users\innatepirate\documents\visual studio 2012\Projects\PasswordManager\LibPassManager\obj\Debug\LibPassManager.dll
+c:\users\innatepirate\documents\visual studio 2012\Projects\PasswordManager\LibPassManager\obj\Debug\LibPassManager.pdb
